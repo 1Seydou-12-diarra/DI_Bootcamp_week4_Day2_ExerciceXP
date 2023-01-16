@@ -9,15 +9,15 @@ export class ProductListComponent implements OnInit {
 
   products = [
     {
-      name: "Banane",
+      name: "igname",
       price: 148.0
     },
     {
-      name: "Orange",
+      name: "cody",
       price: 429.0
     },
     {
-      name: "Pomme",
+      name: "pomme",
       price: 50.0
     },
   ];
